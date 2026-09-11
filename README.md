@@ -1,6 +1,6 @@
 # SysCross
 
-| Code | Lang | Home |
+| Code | Lang | Entry |
 |:---|:---|:---|
 | `_` | English (American English) | Home |
 | `ja_jp` | Japanese (Standard Japanese) | Japan |
