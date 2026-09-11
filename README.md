@@ -2,7 +2,7 @@
 
 | Code | Home | Area |
 |:---|:---|:---|
-| `_` | English | Global |
+| `_` | English | - |
 | `ja` | Japanese | Japan |
 | `ko` | Korean | South Korea |
 | `zh_tw` | Chinese/Mandarin/Traditional | Taiwan |
