@@ -4,5 +4,5 @@
 |:---|:---|:---|
 | `_` | English | - |
 | `ja_jp` | Japanese | Japan |
-| `ko_kr` | South Korean | South Korea |
+| `ko_kr` | Korean | South Korea |
 | `zh_tw` | Chinese/Mandarin/Traditional | Taiwan |
