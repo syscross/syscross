@@ -1,3 +1,11 @@
 {
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "foldIndent": false,
+  "foldHeading": false,
+  "spellcheck": false,
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "showLineNumber": true
 }
