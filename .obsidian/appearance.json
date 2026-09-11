@@ -2,5 +2,6 @@
   "enabledCssSnippets": [
     "table",
     "style"
-  ]
+  ],
+  "baseFontSize": 16
 }
