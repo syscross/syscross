@@ -1,8 +1,8 @@
 # SysCross
 
-| Code | Lang | Area |
-|:---:|:---|:---|
-| `_` | English | International |
+| Code | Home | Area |
+|:---|:---|:---|
+| `_` | English | Global |
 | `ja` | Japanese | Japan |
 | `ko` | Korean | South Korea |
 | `zh_tw` | Chinese/Mandarin/Traditional | Taiwan |
