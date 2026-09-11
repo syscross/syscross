@@ -1,2 +1,59 @@
 
 # Japan
+
+- Hokkaido (1)
+	- `01` Hokkaido
+- Tohoku (6)
+	- `02` Aomori
+	- `03` Iwate
+	- `04` Miygai
+	- `05` Akita
+	- `06` Yamagata
+	- `07` Fukushima
+- Kanto (7)
+	- `08` Ibaraki
+	- `09` Tochigi
+	- `10` Gunma
+	- `11` Saitama
+	- `12` Chiba
+	- `13` Tokyo
+	- `14` Kanagawa
+- Chubu (9)
+	- `15` Niigata
+	- `16` Toyama
+	- `17` Ishikawa
+	- `18` Fukui
+	- `19` Yamanashi
+	- `20` Nagano
+	- `21` Gifu
+	- `22` Shizuoka
+	- `23` Aichi
+- Kansai (7)
+	- `24` Mie
+	- `25` Shiga
+	- `26` Kyoto
+	- `27` Osaka
+	- `28` Hyogo
+	- `29` Nara
+	- `30` Wakayama
+- Chugoku (5)
+	- `31` Tottori
+	- `32` Shimane
+	- `33` Okayama
+	- `34` Hiroshima
+	- `35` Yamaguchi
+- Shikoku (4)
+	- `36` Tokushima
+	- `37` Kagawa
+	- `38` Ehime
+	- `39` Kochi
+- Kyushu (7)
+	- `40` Fukuoka
+	- `41` Saga
+	- `42` Nagasaki
+	- `43` Kumamoto
+	- `44` Oita
+	- `45` Miyazaki
+	- `46` Kagoshima
+- Okinawa (1)
+	- `47` Okinawa
