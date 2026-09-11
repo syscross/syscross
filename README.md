@@ -1,6 +1,6 @@
 # SysCross
 
-| Code | Docs | Area |
+| Code | Lang | Area |
 |:---:|:---|:---|
 | `_` | English | International |
 | `ja` | Japanese | Japan |
