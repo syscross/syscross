@@ -1,7 +1,7 @@
 
 # SysCross
 
-| Code    | Lang                            | Entries                        |
+| Code    | Languages                       | Entries                        |
 | :------ | :------------------------------ | :----------------------------- |
 | `_`     | English (International English) | [Home](_/README.md)            |
 | `_us`   | English (American English)      | [United States](_us/README.md) |
