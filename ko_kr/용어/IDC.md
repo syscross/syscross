@@ -1,0 +1,98 @@
+
+# IDC
+
+Internet Data Center (인터넷 데이터센터)
+
+줄여서 DC(Data Center)라고도 함
+
+- `A`
+	- Aisle
+		- Cold Aisle (차가운/추운 부분)
+		- Hot Aisle (뜨거운/더운 부분)
+- `B`
+	- Backbone
+		- IDC 내부 네트워크와 외부 인터넷망을 연결하는 최상위 고속 대역망
+	- Bandwidth
+		- 데이터가 전송되는 대역폭(속도)
+		- 보통 Mbps 단위나 Gbps 단위를 사용
+		- 1000 Mbps = 1 Gbps
+		- 8 Mbps = 1 MB/s
+		- 8 Gbps = 1 GB/s
+		- 1000 MB/s = 1 GB/s
+	- Bare Metal
+		- 가상화 레이어 없이 OS를 물리 서버에 직접 설치하여 사용하는 환경
+	- BMS
+		- 빌딩 관리 시스템
+- `C`
+	- Colocation
+		- 다른 기업이 공간/전력/냉각을 임대해 사용하는 모델
+	- Commissioning (커미셔닝)
+		- IDC의 구성요소들이 설계대로 작동하는지 검토하는 작업
+- `D`
+- `E`
+- `F`
+- `G`
+- `H`
+	- Hyperscale
+		- 대규모 클라우드 기업이 직접 구축/운영하는 초대형 데이터센터
+		- AWS, GCP, MS Azure, OCI 등
+- `I`
+- `J`
+- `K`
+- `L`
+- `M`
+- `N`
+	- NOC (Network Operations Center)
+		- 네트워크 운영 센터
+		- 네트워크와 관련하여 문제가 생기지 않도록 24시간 모니터링하는 업무
+		- 보통 교대 형태로 근무
+- `O`
+- `P`
+	- PDU (Power Distribution Unit)
+		- 랙/서버에 전력을 분배하는 장치
+- `Q`
+- `R`
+	- Rack (랙)
+		- 서버, 스위치 등을 장착하는 표준 규격의 철제 선반
+		- 보통 19인치 크기
+- `S`
+	- Security (보안)
+		- Physical Security (물리적 보안)
+			- 출입통제, CCTV, 생체인증, 경비업체 등
+		- Cyber Security (사이버 보안)
+			- 방화벽, 침입탐지, 암호화, 개인정보 등
+	- SLA (Service Level Agreement)
+		- 서비스 수준 협약
+		- IDC 가동률이나 장애 보상 기준 등을 명시한 계약서
+- `T`
+- `U`
+	- U (Unit)
+		- 랙에 장착되는 장비의 높이 단위
+		- 1U = 1.75 inch = 약 4.45 cm
+	- UPS (Uninterruptible Power Supply)
+		- 무정전 전원 장치
+		- 정전 시에 대비하며 전원을 공급하는 장치
+	- Utility Power
+		- 외부 전력 회사로부터 공급받는 기본 전력
+- `V`
+- `W`
+- `X`
+- `Y`
+- `Z`
+- `ㄱ`
+	- 공조 (공기조화)
+		- IDC 내부의 온도와 습도를 최적으로 유지하는 영역의 일
+		- 관련 단어: 항온항습
+- `ㄴ`
+- `ㄷ`
+- `ㄹ`
+- `ㅁ`
+- `ㅂ`
+- `ㅅ`
+- `ㅇ`
+- `ㅈ`
+- `ㅊ`
+- `ㅋ`
+- `ㅌ`
+- `ㅍ`
+- `ㅎ`
