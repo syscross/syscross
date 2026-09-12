@@ -3,5 +3,6 @@
     "explorer.sortOrderLexicographicOptions": "unicode",
     "vscode_custom_css.imports": [
         "file://${workspaceFolder}/.vscode/style.css"
-    ]
+    ],
+    "chat.disableAIFeatures": true
 }
