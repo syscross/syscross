@@ -4,5 +4,6 @@
     "vscode_custom_css.imports": [
         "file://${workspaceFolder}/.vscode/style.css"
     ],
-    "chat.disableAIFeatures": true
+    "chat.disableAIFeatures": true,
+    "workbench.tree.indent": 12
 }
