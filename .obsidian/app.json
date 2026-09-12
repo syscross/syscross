@@ -7,5 +7,6 @@
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "promptDelete": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "attachmentFolderPath": ".media"
 }

@@ -2,5 +2,7 @@
   "custom-font-loader",
   "obsidian-hider",
   "custom-sort",
-  "obsidian-alias-from-heading"
+  "obsidian-alias-from-heading",
+  "obsidian-paste-image-rename",
+  "unhide"
 ]

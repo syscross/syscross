@@ -1,8 +1,8 @@
 
 # Japan
 
-- Hokkaido (1)
-	- `01` Hokkaido
+- [Hokkaido](01_hokkaido/README.md) (1)
+	- `01` [Hokkaido](01_hokkaido/README.md)
 - Tohoku (6)
 	- `02` Aomori
 	- `03` Iwate
@@ -57,3 +57,50 @@
 	- `46` Kagoshima
 - Okinawa (1)
 	- `47` Okinawa
+
+## Metro Lines
+
+- Hokkaido
+	- Sapporo
+	- Hakodate
+- Tohoku
+	- Sendai
+- Kanto
+	- Tokyo
+	- Yokohama
+	- Chiba
+- Chubu
+	- Nagoya
+- Kansai
+	- Kyoto
+	- Osaka
+	- Kobe
+- Chugoku
+	- Hiroshima
+- Kyushu
+	- Fukuoka
+	- Kitakyushu
+	- Kumamoto
+	- Nagasaki
+	- Kagoshima
+- Okinawa
+	- Naha
+
+## Train Lines
+
+- Hokkaido Shinkansen
+- Tohoku Shinkansen
+	- Akita Shinkansen
+	- Yamagata Shinkansen
+- Tokyo Station
+	- Joetsu Shinkansen
+	- Hokuriku Shinkansen
+- Tokaido Shinkansen
+	- Chuo Shinkansen
+- Sanyo Shinkansen
+- Kyushu Shinkansen
+	- Nishikyushu Shinkansen
+
+## Companies
+
+- Sakura Internet
