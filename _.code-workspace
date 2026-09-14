@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../syscross-dev"
+		},
+		{
+			"path": "../cargo-txx"
 		}
 	],
 	"settings": {
