@@ -11,7 +11,13 @@
 		},
 		{
 			"path": "../cargo-rsx"
-		}
+		},
+		{
+			"path": "../markx"
+		},
+		{
+			"path": "../htmlx"
+		},
 	],
 	"settings": {
 		"explorer.sortOrder": "filesFirst",
@@ -27,6 +33,8 @@
 		"files.associations": {
 			"*.txx": "cpp",
 			"*.rsx": "rust",
+			"*.markx": "markdown",
+			"*.htmlx": "html",
 		},
 	},
 }
