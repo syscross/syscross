@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../cargo-txx"
+		},
+		{
+			"path": "../cargo-rsx"
 		}
 	],
 	"settings": {
@@ -20,6 +23,10 @@
 		"workbench.tree.indent": 12,
 		"workbench.tree.expandMode": "doubleClick",
 		"workbench.list.openMode": "doubleClick",
-		"explorer.compactFolders": false
-	}
+		"explorer.compactFolders": false,
+		"files.associations": {
+			"*.txx": "cpp",
+			"*.rsx": "rust",
+		},
+	},
 }
