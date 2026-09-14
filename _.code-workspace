@@ -35,6 +35,8 @@
 			"*.rsx": "rust",
 			"*.markx": "markdown",
 			"*.htmlx": "html",
+			"*.htmx": "html",
+			"*.csx": "text",
 		},
 	},
 }
