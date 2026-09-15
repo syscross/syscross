@@ -7,10 +7,10 @@
 			"path": "../syscross-dev"
 		},
 		{
-			"path": "../cargo-txx"
+			"path": "../txx"
 		},
 		{
-			"path": "../cargo-rsx"
+			"path": "../rsx"
 		},
 		{
 			"path": "../markx"
