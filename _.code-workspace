@@ -9,6 +9,7 @@
 	],
 	"settings": {
 		"explorer.sortOrder": "filesFirst",
-		"explorer.sortOrderLexicographicOptions": "unicode"
+		"explorer.sortOrderLexicographicOptions": "unicode",
+		"chat.disableAIFeatures": true
 	}
 }
