@@ -11,6 +11,9 @@
 		"explorer.sortOrder": "filesFirst",
 		"explorer.sortOrderLexicographicOptions": "unicode",
 		"chat.disableAIFeatures": true,
-		"explorer.compactFolders": false
+		"explorer.compactFolders": false,
+		"files.exclude": {
+			".OBSIDIANTEST": true
+		}
 	}
 }
