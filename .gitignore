@@ -1,5 +1,6 @@
 
 /.OBSIDIANTEST
+/.obsidian
 
 **/Cargo.lock
 **/target
