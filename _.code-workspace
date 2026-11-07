@@ -13,7 +13,8 @@
 		"chat.disableAIFeatures": true,
 		"explorer.compactFolders": false,
 		"files.exclude": {
-			".OBSIDIANTEST": true
+			".OBSIDIANTEST": true,
+			"**/Cargo.lock": true
 		},
 		"workbench.tree.expandMode": "doubleClick",
 		"workbench.list.openMode": "doubleClick",

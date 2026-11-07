@@ -1,4 +1,4 @@
 
-sh sync.sh
+sh sync.sh $@
 
-sh sync_dev.sh
+sh sync_dev.sh $@

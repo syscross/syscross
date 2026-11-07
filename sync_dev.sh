@@ -1,4 +1,4 @@
 
 cd ../syscross_dev
 
-sh sync.sh
+sh sync.sh $@
