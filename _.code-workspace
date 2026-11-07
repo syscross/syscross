@@ -10,7 +10,7 @@
 	"settings": {
 		"explorer.sortOrder": "filesFirst",
 		"explorer.sortOrderLexicographicOptions": "unicode",
-		"chat.disableAIFeatures": false,
+		"chat.disableAIFeatures": true,
 		"explorer.compactFolders": false,
 		"files.exclude": {
 			".OBSIDIANTEST": true
