@@ -1,4 +1,7 @@
 
+pub mod io;
+pub use io::*;
+
 const HELLO_MSG: &str = "Hello, World!";
 
 pub fn hello() {
