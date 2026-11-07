@@ -1,4 +1,6 @@
 
+use lib::*;
+
 fn main() {
-    
+    hello();
 }
