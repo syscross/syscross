@@ -1,4 +1,3 @@
-
 #pragma once
 
 #include "prelude.h"
@@ -7,6 +6,8 @@
 int _main();
 #endif
 
+#ifdef _WIN32
+
 struct WindowDesc {
     str title  = "Application";
     i32 width  = 800;
@@ -14,3 +15,5 @@ struct WindowDesc {
 };
 
 void create_window(WindowDesc desc = {});
+
+#endif
