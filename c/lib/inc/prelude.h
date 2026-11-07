@@ -5,6 +5,8 @@
 #include <stddef.h>
 #include <uchar.h>
 
+static constexpr nullptr_t null = nullptr;
+
 typedef int8_t    i8;
 typedef int16_t   i16;
 typedef int32_t   i32;

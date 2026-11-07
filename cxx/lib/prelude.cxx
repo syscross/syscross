@@ -5,10 +5,16 @@ module;
 #include <cstddef>
 #include <string>
 #include <string_view>
+#include <functional>
+#include <optional>
+#include <expected>
+#include <variant>
 
 export module prelude;
 
 export {
+    inline constexpr auto null = nullptr;
+
     using i8       = std::int8_t;
     using i16      = std::int16_t;
     using i32      = std::int32_t;
@@ -40,4 +46,18 @@ export {
     using str16    = std::u16string_view;
     using str32    = std::u32string_view;
     using wstr     = std::wstring_view;
+
+    using std::function;
+    using std::variant;
+
+    template <typename T>
+    using option = std::optional<T>;
+
+    inline constexpr auto none = std::nullopt;
+
+    template <typename... T>
+    using result = std::expected<T...>;
+
+    template <typename E>
+    using err = std::unexpected<E>;
 }
