@@ -1,5 +1,5 @@
 # /// script
-# dependencies = ["markdown"]
+# dependencies = ["markdown", "pymdown-extensions"]
 # ///
 
 from pathlib import Path
