@@ -5,6 +5,10 @@
 #include <cstddef>
 #include <string>
 #include <string_view>
+#include <functional>
+#include <optional>
+#include <expected>
+#include <variant>
 
 inline constexpr auto null = nullptr;
 
@@ -39,3 +43,17 @@ using str8     = std::u8string_view;
 using str16    = std::u16string_view;
 using str32    = std::u32string_view;
 using wstr     = std::wstring_view;
+
+using std::function;
+using std::variant;
+
+template <typename T>
+using option = std::optional<T>;
+
+inline constexpr auto none = std::nullopt;
+
+template <typename... T>
+using result = std::expected<T...>;
+
+template <typename E>
+using err = std::unexpected<E>;
