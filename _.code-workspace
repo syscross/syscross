@@ -14,7 +14,8 @@
 		"explorer.compactFolders": false,
 		"files.exclude": {
 			".OBSIDIANTEST": true,
-			"**/Cargo.lock": true
+			"**/Cargo.lock": true,
+			"__pycache__": true
 		},
 		"workbench.tree.expandMode": "doubleClick",
 		"workbench.list.openMode": "doubleClick",
