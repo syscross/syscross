@@ -10,12 +10,13 @@
 	"settings": {
 		"explorer.sortOrder": "filesFirst",
 		"explorer.sortOrderLexicographicOptions": "unicode",
-		"chat.disableAIFeatures": true,
+		"chat.disableAIFeatures": false,
 		"explorer.compactFolders": false,
 		"files.exclude": {
 			".OBSIDIANTEST": true
 		},
 		"workbench.tree.expandMode": "doubleClick",
-		"workbench.list.openMode": "doubleClick"
+		"workbench.list.openMode": "doubleClick",
+		"workbench.tree.indent": 12
 	}
 }
