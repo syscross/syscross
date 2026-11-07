@@ -3,6 +3,7 @@
 # ///
 
 from pathlib import Path
+import re
 import shutil
 import markdown
 import pymdownx.superfences
@@ -114,8 +115,10 @@ def build() -> None:
         out_path = TARGET_DIR / out_rel
         out_path.parent.mkdir(parents=True, exist_ok=True)
 
+        raw_md = md_path.read_text(encoding="utf-8")
+        clean_md = re.sub(r"\A---\r?\n.*?\r?\n---\r?\n?", "", raw_md, flags=re.DOTALL)
         body = markdown.markdown(
-            md_path.read_text(encoding="utf-8"),
+            clean_md,
             extensions=EXTENSIONS,
             extension_configs=EXTENSION_CONFIGS,
         )
