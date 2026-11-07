@@ -26,7 +26,7 @@ static LRESULT CALLBACK wnd_proc(HWND hwnd, UINT msg, WPARAM wp, LPARAM lp) {
 void create_window(WindowDesc desc) {
     HINSTANCE hinst = GetModuleHandleW(null);
     wstring title = to_wstring(desc.title);
-    const wchar* cls_name = L"SysCrossWindow";
+    const wchar* cls_name = L"Application";
 
     WNDCLASSEXW wc = {
         .cbSize        = sizeof(WNDCLASSEXW),
